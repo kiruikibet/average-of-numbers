@@ -5,7 +5,7 @@ public class Average {
         System.out.println("Enter the size ");
         int size=scanner.nextInt();
         int[] array=new int[size];
-        System.out.println(" Enter the Values");
+        System.out.println(" Enter the values");
         for(int i= 0;i<size;i++){
 
             int value=scanner.nextInt();
