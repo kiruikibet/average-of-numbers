@@ -5,7 +5,7 @@ public class Average {
         System.out.println("Enter the size ");
         int size=scanner.nextInt();
         int[] array=new int[size];
-        System.out.println(" Enter the values");
+        System.out.println(" Enter the Values");
         for(int i= 0;i<size;i++){
 
             int value=scanner.nextInt();
@@ -21,7 +21,7 @@ public class Average {
 
         }
         double average =sum/length;
-        System.out.println("The average is "+average);
+        System.out.println("The Average is "+average);
 
 
 
